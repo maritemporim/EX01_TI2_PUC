@@ -1,1 +1,1 @@
-# EX01_TI2_PUC
+📘 Exercício desenvolvido para a disciplina de Trabalho Interdisciplinar II.
